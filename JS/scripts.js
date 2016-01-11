@@ -32,3 +32,10 @@ $(function(){
     $(".defShownAlert").toggle();
   });
 });
+
+$(function(){
+  $("#NaN").click(function(){
+    $(".hiddenNaN").toggle();
+    $(".defShownNaN").toggle();
+  });
+});
