@@ -1,24 +1,33 @@
+html, body {
+  background-color: #e5fff3;
+}
 .hiddenModulo {
   display: none;
+  font-size: 14pt;
 }
 
 .hiddenString {
   display: none;
+  font-size: 14pt;
 }
 
 .hiddenParameter {
+  font-size: 14pt;
   display: none;
 }
 
 .hiddenBooleans {
   display: none;
+  font-size: 14pt;
 }
 
 .hiddenAlert {
+  font-size: 14pt;
   display: none;
 }
 
 .hiddenNaN {
+  font-size: 14pt;
   display: none;
 }
 
