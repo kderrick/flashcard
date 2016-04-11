@@ -19,7 +19,7 @@ Contact kderrick through github.
 
 ## Technologies Used
 
-This project was built using HTML, CSS, Bootstrap and Atom, Mocha, Chai, Jquery and Javascript
+This project was built using HTML, CSS, Bootstrap, Jquery and Javascript
 
 
 ### License
